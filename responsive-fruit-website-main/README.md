@@ -9,4 +9,4 @@
 ![preview img](./preview.png)
 
    - Source Code: [GitHub Repo](https://github.com/ashwanipydev/HTML-CSS/tree/main/responsive-fruit-website-main)
-   - Live Site: [Responsive Ecommerce Website Sneakers](https://responsive-fruit-website.netlify.app)
+   - Live Site: [Responsive Fruit Website](https://responsive-fruit-website.netlify.app)
